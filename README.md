@@ -17,7 +17,7 @@ El sistema fue desarrollado en Python utilizando Tkinter para la interfaz gráfi
 
 ## Tecnologías Utilizadas
 
-* Python 3.x
+* Python Version 3.4 en adelante
 * Tkinter
 * NumPy
 * Matplotlib
@@ -69,19 +69,8 @@ El proyecto relaciona la teoría con ejemplos reales como:
 
 ## Instalación
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
-```
-
-2. Ingresar al directorio:
-
-```bash
-cd TU-REPOSITORIO
-```
-
-3. Instalar dependencias:
+1. Instalar dependencias:
+   Dentro de su IDE
 
 ```bash
 pip install numpy matplotlib
