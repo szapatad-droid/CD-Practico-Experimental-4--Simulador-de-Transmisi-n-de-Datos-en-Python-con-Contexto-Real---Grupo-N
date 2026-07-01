@@ -1,6 +1,6 @@
-# 📡 Simulador de Transmisión de Datos en Python con Contexto Real
+# Simulador de Transmisión de Datos en Python con Contexto Real
 
-## 📖 Descripción
+## Descripción
 
 Este proyecto desarrolla un simulador interactivo de transmisión de datos basado en conceptos de Comunicación de Datos y el Modelo OSI. La aplicación permite visualizar el proceso completo de envío y recepción de información utilizando modulación ASK (Amplitude Shift Keying), detección de errores mediante bits de paridad y simulación de ruido en el canal de comunicación.
 
@@ -15,7 +15,7 @@ El sistema fue desarrollado en Python utilizando Tkinter para la interfaz gráfi
 * Analizar el efecto del ruido sobre la calidad de la transmisión.
 * Relacionar la teoría con escenarios reales de comunicación.
 
-## ⚙️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * Python 3.x
 * Tkinter
