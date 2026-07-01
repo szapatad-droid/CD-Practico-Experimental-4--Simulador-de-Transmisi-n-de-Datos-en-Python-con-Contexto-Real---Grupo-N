@@ -99,6 +99,6 @@ Desarrollado como proyecto académico del GRUPO N para la asignatura de Comunica
 
 Universidad Estatal de Milagro (UNEMI)
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se distribuye con fines educativos y académicos.
